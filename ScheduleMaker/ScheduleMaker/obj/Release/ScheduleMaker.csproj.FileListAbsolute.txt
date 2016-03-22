@@ -1,0 +1,13 @@
+E:\Projects\ScheduleMaker\ScheduleMaker\bin\Release\ScheduleMaker.exe.config
+E:\Projects\ScheduleMaker\ScheduleMaker\bin\Release\ScheduleMaker.exe
+E:\Projects\ScheduleMaker\ScheduleMaker\bin\Release\ScheduleMaker.pdb
+E:\Projects\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.csprojResolveAssemblyReference.cache
+E:\Projects\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.csproj.ResolveComReference.cache
+E:\Projects\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.Form1.resources
+E:\Projects\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.Form2.resources
+E:\Projects\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.Form3.resources
+E:\Projects\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.Properties.Resources.resources
+E:\Projects\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.csproj.GenerateResource.Cache
+E:\Projects\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.exe
+E:\Projects\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.pdb
+E:\Projects\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.Form4.resources

@@ -1,0 +1,13 @@
+E:\Projects\ScheduleMaker\ScheduleMaker\bin\Debug\ScheduleMaker.exe.config
+E:\Projects\ScheduleMaker\ScheduleMaker\bin\Debug\ScheduleMaker.exe
+E:\Projects\ScheduleMaker\ScheduleMaker\bin\Debug\ScheduleMaker.pdb
+E:\Projects\ScheduleMaker\ScheduleMaker\obj\Debug\ScheduleMaker.csproj.ResolveComReference.cache
+E:\Projects\ScheduleMaker\ScheduleMaker\obj\Debug\ScheduleMaker.Form1.resources
+E:\Projects\ScheduleMaker\ScheduleMaker\obj\Debug\ScheduleMaker.Form2.resources
+E:\Projects\ScheduleMaker\ScheduleMaker\obj\Debug\ScheduleMaker.Form3.resources
+E:\Projects\ScheduleMaker\ScheduleMaker\obj\Debug\ScheduleMaker.Properties.Resources.resources
+E:\Projects\ScheduleMaker\ScheduleMaker\obj\Debug\ScheduleMaker.csproj.GenerateResource.Cache
+E:\Projects\ScheduleMaker\ScheduleMaker\obj\Debug\ScheduleMaker.exe
+E:\Projects\ScheduleMaker\ScheduleMaker\obj\Debug\ScheduleMaker.pdb
+E:\Projects\ScheduleMaker\ScheduleMaker\obj\Debug\ScheduleMaker.csprojResolveAssemblyReference.cache
+E:\Projects\ScheduleMaker\ScheduleMaker\obj\Debug\ScheduleMaker.Form4.resources
