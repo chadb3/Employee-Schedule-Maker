@@ -7,6 +7,9 @@ using System.IO;
 
 namespace ScheduleMaker
 {
+    /// <summary>
+    /// Main entry point to the program
+    /// </summary>
     static class Program
     {
         /// <summary>

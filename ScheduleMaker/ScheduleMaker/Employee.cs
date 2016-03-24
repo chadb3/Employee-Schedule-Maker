@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace ScheduleMaker
 {
+    /// <summary>
+    /// Defines an Employee and what to do with them
+    /// </summary>
     public class Employee
     {
        protected int rank;

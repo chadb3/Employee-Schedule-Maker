@@ -10,6 +10,10 @@ using System.Windows.Forms;
 
 namespace ScheduleMaker
 {
+    /// <summary>
+    /// has to do with the gui that removes an employee from the file
+    ///this will remove the employee
+    /// </summary>
     public partial class Form3 : Form
     {
         EmployeeDB theDBForForm3;

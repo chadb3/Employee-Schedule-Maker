@@ -10,6 +10,10 @@ using System.Windows.Forms;
 
 namespace ScheduleMaker
 {
+    /// <summary>
+    /// Has to do with reordiing the list of employees so they appear 
+    /// how managment wants (not yet implimented)
+    /// </summary>
     public partial class Form4 : Form
     {
         EmployeeDB refDBHere;

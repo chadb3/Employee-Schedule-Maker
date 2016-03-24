@@ -7,6 +7,10 @@ using System.IO;
 using System.Windows.Forms;
 namespace ScheduleMaker
 {
+    /// <summary>
+    /// Defines the structure that stores employes and what to do with them
+    /// has methods to add remove and get the list.this probably can be improved with some db support
+    /// </summary>
     public class EmployeeDB
     {
        private List<Employee> TheEmployeeList;

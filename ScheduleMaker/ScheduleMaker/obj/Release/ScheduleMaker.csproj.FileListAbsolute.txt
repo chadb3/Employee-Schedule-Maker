@@ -11,3 +11,16 @@ E:\Projects\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.csproj.Generat
 E:\Projects\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.exe
 E:\Projects\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.pdb
 E:\Projects\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.Form4.resources
+C:\Users\Chad\Desktop\CODE PROJECTS\Employee Schedule Maker\ScheduleMaker\ScheduleMaker\bin\Release\ScheduleMaker.exe.config
+C:\Users\Chad\Desktop\CODE PROJECTS\Employee Schedule Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.csproj.ResolveComReference.cache
+C:\Users\Chad\Desktop\CODE PROJECTS\Employee Schedule Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.exe
+C:\Users\Chad\Desktop\CODE PROJECTS\Employee Schedule Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.pdb
+C:\Users\Chad\Desktop\CODE PROJECTS\Employee Schedule Maker\ScheduleMaker\ScheduleMaker\bin\Release\ScheduleMaker.exe
+C:\Users\Chad\Desktop\CODE PROJECTS\Employee Schedule Maker\ScheduleMaker\ScheduleMaker\bin\Release\ScheduleMaker.pdb
+C:\Users\Chad\Desktop\CODE PROJECTS\Employee Schedule Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.csprojResolveAssemblyReference.cache
+C:\Users\Chad\Desktop\CODE PROJECTS\Employee Schedule Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.Form1.resources
+C:\Users\Chad\Desktop\CODE PROJECTS\Employee Schedule Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.Form2.resources
+C:\Users\Chad\Desktop\CODE PROJECTS\Employee Schedule Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.Form3.resources
+C:\Users\Chad\Desktop\CODE PROJECTS\Employee Schedule Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.Form4.resources
+C:\Users\Chad\Desktop\CODE PROJECTS\Employee Schedule Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.Properties.Resources.resources
+C:\Users\Chad\Desktop\CODE PROJECTS\Employee Schedule Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.csproj.GenerateResource.Cache

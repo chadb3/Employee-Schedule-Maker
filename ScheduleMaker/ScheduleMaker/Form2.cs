@@ -11,6 +11,9 @@ using System.IO;
 
 namespace ScheduleMaker
 {
+    /// <summary>
+    /// this class has to do with adding an employee to a list.
+    /// </summary>
     public partial class Form2 : Form
     {
         EmployeeDB dbToUpdate;

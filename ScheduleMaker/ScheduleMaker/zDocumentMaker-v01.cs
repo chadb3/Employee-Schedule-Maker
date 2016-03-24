@@ -9,6 +9,10 @@ using System.Windows.Forms;
 
 namespace ScheduleMaker
 {
+    /// <summary>
+    /// Oh boy, this mess is how to make a microsoft word table in c#!
+    /// a bit over complicated, but it works!
+    /// </summary>
     class zDocumentMaker_v01
     {
         object missing;
@@ -205,7 +209,11 @@ namespace ScheduleMaker
 
 
 
-
+        /// <summary>
+        /// may not be used will have to mark for remove if not used!
+        /// </summary>
+        /// <param name="DayIn"></param>
+        /// <returns></returns>
         public int GetDayIndex(string DayIn)
         {
             int valueToReturn = 0;

@@ -10,6 +10,9 @@ using System.Windows.Forms;
 using System.Text.RegularExpressions;
 namespace ScheduleMaker
 {
+    /// <summary>
+    /// This is the main form
+    /// </summary>
     public partial class Form1 : Form
     {
 
@@ -34,6 +37,11 @@ namespace ScheduleMaker
             populateList();
         }
 
+        /// <summary>
+        /// creates the actual schedule for the user
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button1_Click(object sender, EventArgs e)
         {
             GetMonthData();
@@ -43,6 +51,9 @@ namespace ScheduleMaker
 
         }
 
+        /// <summary>
+        /// ment to repopulate the list after an employee is added or removed
+        /// </summary>
         private void populateList()
         {
             ListOfEmployeeNames = theDB.getListOfNames();
@@ -52,7 +63,12 @@ namespace ScheduleMaker
                 listBox2.Items.Add(name);
             }
         }
-
+        /// <summary>
+        /// brings up the new employee form for adding a new employee
+        /// then poupulates the list
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void newEmployeeToolStripMenuItem_Click(object sender, EventArgs e)
         {
             //pass the db pointer
@@ -64,6 +80,10 @@ namespace ScheduleMaker
             populateList();
         }
 
+
+        /// <summary>
+        /// gets month data for the calender slector
+        /// </summary>
         private void GetMonthData()
         {
             Regex regex = new Regex(" ");
@@ -76,6 +96,11 @@ namespace ScheduleMaker
             
         }
 
+        /// <summary>
+        /// brings up the gui to remove an employee then refeshes the list
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void removeEmployeeToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form3 RemoveEmployee = new Form3(ref theDB);
@@ -97,7 +122,11 @@ namespace ScheduleMaker
 -Call me, and I'll do my best to fix the error
 Please be careful to not overwrite a file you have finished or you may lose progress or even the whole schedule", "HELP");
         }
-
+        /// <summary>
+        /// reorders the employees but not done yet!
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void reorderEmployeesToolStripMenuItem_Click(object sender, EventArgs e)
         {
             //pass ref
