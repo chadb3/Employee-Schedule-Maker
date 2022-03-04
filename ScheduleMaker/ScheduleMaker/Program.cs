@@ -18,6 +18,9 @@ namespace ScheduleMaker
         [STAThread]
         static void Main()
         {
+            //The File below stores the Employee names in leu of an actual database.
+            //This is a Temporary solution
+            //I am working on SQLite for a database integration.
             string path = @"c:\ScheduleMaker2015\EmployeeNames.txt";
             MakeTheFiles();
             string LineOfText;

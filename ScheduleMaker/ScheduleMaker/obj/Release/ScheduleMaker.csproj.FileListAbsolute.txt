@@ -24,3 +24,17 @@ C:\Users\Chad\Desktop\CODE PROJECTS\Employee Schedule Maker\ScheduleMaker\Schedu
 C:\Users\Chad\Desktop\CODE PROJECTS\Employee Schedule Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.Form4.resources
 C:\Users\Chad\Desktop\CODE PROJECTS\Employee Schedule Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.Properties.Resources.resources
 C:\Users\Chad\Desktop\CODE PROJECTS\Employee Schedule Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.csproj.GenerateResource.Cache
+C:\Users\Chad\Documents\git_projects\scheduler\Employee-Schedule-Maker\ScheduleMaker\ScheduleMaker\bin\Release\ScheduleMaker.exe.config
+C:\Users\Chad\Documents\git_projects\scheduler\Employee-Schedule-Maker\ScheduleMaker\ScheduleMaker\bin\Release\ScheduleMaker.exe
+C:\Users\Chad\Documents\git_projects\scheduler\Employee-Schedule-Maker\ScheduleMaker\ScheduleMaker\bin\Release\ScheduleMaker.pdb
+C:\Users\Chad\Documents\git_projects\scheduler\Employee-Schedule-Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.csproj.AssemblyReference.cache
+C:\Users\Chad\Documents\git_projects\scheduler\Employee-Schedule-Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.csproj.ResolveComReference.cache
+C:\Users\Chad\Documents\git_projects\scheduler\Employee-Schedule-Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.Form1.resources
+C:\Users\Chad\Documents\git_projects\scheduler\Employee-Schedule-Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.Form2.resources
+C:\Users\Chad\Documents\git_projects\scheduler\Employee-Schedule-Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.Form3.resources
+C:\Users\Chad\Documents\git_projects\scheduler\Employee-Schedule-Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.Form4.resources
+C:\Users\Chad\Documents\git_projects\scheduler\Employee-Schedule-Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.Properties.Resources.resources
+C:\Users\Chad\Documents\git_projects\scheduler\Employee-Schedule-Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.csproj.GenerateResource.cache
+C:\Users\Chad\Documents\git_projects\scheduler\Employee-Schedule-Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Documents\git_projects\scheduler\Employee-Schedule-Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.exe
+C:\Users\Chad\Documents\git_projects\scheduler\Employee-Schedule-Maker\ScheduleMaker\ScheduleMaker\obj\Release\ScheduleMaker.pdb

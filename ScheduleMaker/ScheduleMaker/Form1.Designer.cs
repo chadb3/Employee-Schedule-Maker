@@ -107,20 +107,20 @@
             this.versionToolStripMenuItem,
             this.helpToolStripMenuItem});
             this.versionInfoHelpToolStripMenuItem.Name = "versionInfoHelpToolStripMenuItem";
-            this.versionInfoHelpToolStripMenuItem.Size = new System.Drawing.Size(112, 20);
+            this.versionInfoHelpToolStripMenuItem.Size = new System.Drawing.Size(111, 20);
             this.versionInfoHelpToolStripMenuItem.Text = "Version Info/Help";
             // 
             // versionToolStripMenuItem
             // 
             this.versionToolStripMenuItem.Name = "versionToolStripMenuItem";
-            this.versionToolStripMenuItem.Size = new System.Drawing.Size(113, 22);
+            this.versionToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.versionToolStripMenuItem.Text = "Version";
             this.versionToolStripMenuItem.Click += new System.EventHandler(this.versionToolStripMenuItem_Click);
             // 
             // helpToolStripMenuItem
             // 
             this.helpToolStripMenuItem.Name = "helpToolStripMenuItem";
-            this.helpToolStripMenuItem.Size = new System.Drawing.Size(113, 22);
+            this.helpToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.helpToolStripMenuItem.Text = "Help";
             this.helpToolStripMenuItem.Click += new System.EventHandler(this.helpToolStripMenuItem_Click);
             // 
@@ -159,7 +159,10 @@
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(200, 20);
             this.dateTimePicker1.TabIndex = 11;
-            this.dateTimePicker1.Value = new System.DateTime(2015, 9, 22, 0, 0, 0, 0);
+            //The below value will become the default.
+            //Year month Day.
+            //this.dateTimePicker1.Value = new System.DateTime(2022, 1, 12, 0, 0, 0, 0);
+            //***************************************************************************
             // 
             // label2
             // 

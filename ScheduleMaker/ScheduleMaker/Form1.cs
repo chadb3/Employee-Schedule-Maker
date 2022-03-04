@@ -111,7 +111,15 @@ namespace ScheduleMaker
 
         private void versionToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("This software was created using Microsoft Visual Studio Express using the C# language.\n Some features in future versions\n-Proper schedule ranking (the people will be in the correct order)\n-Possible theme selection for the calendar.\n-Have a holiday table to look up all applicable holidays\n-Look into the possibility of using a SQL server run on the server computer or        a Raspberry pi2 for a proper DB experience\n-New visuals\n-Possibly more\n\nThank you for using the software.\nSoftware written by Chad Bachman", "V1 info");          
+            MessageBox.Show("This software was created using Microsoft Visual Studio Express using the C# language.\n"
+                +"Some features in future versions\n"
+                +"-Proper schedule ranking (the people will be in the correct order)\n"
+                +"-Possible theme selection for the calendar.\n"
+                +"-Have a holiday table to look up all applicable holidays\n"
+                +"-Look into the possibility of using a SQL server run on the server computer or a Raspberry pi2 for a proper DB experience\n"+"-New visuals\n"
+                +"-Possibly more\n\n"
+                +"Thank you for using the software.\n"
+                +"Software written by Chad Bachman", "V1 info");          
         }
 
         private void helpToolStripMenuItem_Click(object sender, EventArgs e)
@@ -134,5 +142,7 @@ Please be careful to not overwrite a file you have finished or you may lose prog
             ReOrder.ShowDialog();
             populateList();
         }
+
+        
     }
 }
