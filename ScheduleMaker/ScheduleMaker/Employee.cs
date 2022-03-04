@@ -11,16 +11,19 @@ namespace ScheduleMaker
     /// </summary>
     public class Employee
     {
-       protected int rank;
-       protected string fName;
+        protected int rank;
+        protected string fName;
+        protected string lName;
+        protected string jobTitle;
      //  protected string Job;
 
-      public Employee(string First_name)
-      {
-           fName = First_name;
-          // lName = Last_Name;
+       public Employee(string First_name, string lName)
+       {
+            fName = First_name;
+            this.lName = lName;
 
-      }
+
+       }
 
         public string GetFirstName()
       {
